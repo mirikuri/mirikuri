@@ -1,4 +1,4 @@
-👋 Hi, I'm @mirikuri  
+👋 Hi, I'm mirkkkk
 
 - 🧠 Passionate about **low-level programming** in **C** and how OS, memory, and hardware work.  
   I tackle **CTF challenges**, explore reverse engineering, and dive into Linux internals — mostly through **Kali Linux**, **WSL**, and custom VMs.  
